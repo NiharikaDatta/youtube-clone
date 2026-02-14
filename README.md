@@ -16,7 +16,7 @@ Built a youtube clone in five days as first project after self-learning html+css
 ## Features
 - Tooltips
 - Hover effects
-- Pixel-perfect replica
+- Accurate replica of my own YouTube home landing page
 - Pure HTML+CSS : No frameworks
 ## How I learnt it
 - Watched supersimpledev's video
