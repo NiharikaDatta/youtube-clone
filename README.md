@@ -1,7 +1,7 @@
 # youtube-clone
 Built a youtube clone in five days as first project after self-learning html+css
 ## Live Demo
-[Click here to view!](https://youtube-first.netlify.app/)
+[Click here to view!](https://niharikadatta.github.io/youtube-clone/)
 ## What I learnt:
 - HTML fundamentals
   - different tags (nav, header etc)
