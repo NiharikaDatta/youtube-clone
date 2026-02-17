@@ -23,6 +23,8 @@ Built a youtube clone in five days as first project after self-learning html+css
 - Took notes
 - closed it and built from memory/notes
 - debugged and refined over 5 days (long holiday at school)
+- No AI
+- No tutorial copy-pasting
 ## What to do next?
 - Use media queries to simulate what happens when resized
 - Add JavaScript to make it interactive
